@@ -11,4 +11,4 @@ Cada carpeta contiene cómo debe verse el código **al terminar** una lección. 
 | 5 | [leccion-05-introduccion-a-css](leccion-05-introduccion-a-css) |
 | 6 | [leccion-06-estilos-simples](leccion-06-estilos-simples) |
 | 7 | [leccion-07-proyecto-pagina-de-perfil](leccion-07-proyecto-pagina-de-perfil) |
-| 8 | [leccion-08-errores-comunes-y-proximos-pasos](leccion-08-errores-comunes-y-proximos-pasos) (versión corregida, con la lista de errores en `style.css`) |
+| 8 | [leccion-08-errores-comunes-y-proximos-pasos](leccion-08-errores-comunes-y-proximos-pasos) |
