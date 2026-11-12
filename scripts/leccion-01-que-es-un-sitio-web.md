@@ -50,7 +50,7 @@ Texto en pantalla: Pausa el video: cambia el texto del título y enciende el CSS
 
 Lo que se dice: Te toca. Pausa el video, abre el enlace de la descripción, cambia el título por "¡Hola, soy..." y tu nombre, y enciende el CSS como yo. Cuando termines, dale play.
 
-### Escena 7: Cierre (5:20 - 6:00) - Canva
+### Escena 7: Cierre (5:20 - 5:58) - Canva
 
 Texto en pantalla: Resumen: navegador + HTML + CSS
 
