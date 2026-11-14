@@ -1,0 +1,10 @@
+/* Lección 1: HTML pone el contenido, CSS lo hace verse bonito. */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fef6e4;
+  text-align: center;
+}
+
+h1 {
+  color: #d6336c;
+}

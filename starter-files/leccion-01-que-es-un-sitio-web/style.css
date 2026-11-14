@@ -1,0 +1,15 @@
+/* Lección 1: este archivo ya tiene estilos, pero están "apagados".
+   Borra los símbolos /* y */ de las líneas de abajo para encenderlos
+   y mira cómo cambia la página. */
+
+/*
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fef6e4;
+  text-align: center;
+}
+
+h1 {
+  color: #d6336c;
+}
+*/
