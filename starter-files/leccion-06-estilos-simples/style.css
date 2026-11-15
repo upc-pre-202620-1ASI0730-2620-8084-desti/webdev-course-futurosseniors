@@ -1,30 +1,21 @@
-/* Lección 5: primeros estilos */
+/* Estilos de la lección 5 */
 
-/* Selector de etiqueta: afecta a todo el <body> */
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #333333;
-    background-color: #f0f7ff;
+  font-family: Arial, sans-serif;
+  background-color: #f0f7ff;
+  color: #333333;
 }
 
-/* Selector de etiqueta: todos los <h1> */
 h1 {
-    color: #1e5aa8;
-    font-size: 36px;
+  color: #1e5aa8;
 }
 
-/* Selector de etiqueta: todos los <h2> */
-h2 {
-    color: #1e5aa8;
-}
-
-/* Selector de clase: solo los elementos con class="destacado" */
 .destacado {
-    color: #d6336c;
-    font-weight: bold;
+  color: #d6336c;
+  font-weight: bold;
 }
 
 /* PRÁCTICA (lección 6):
    1. Crea .tarjeta con fondo blanco, borde, esquinas redondeadas y padding.
-   2. Céntrala con max-width y margin: 0 auto.
+   2. Céntrala con max-width y margin: 40px auto.
    3. Haz la foto redonda con border-radius: 50%. */
