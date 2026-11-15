@@ -32,19 +32,19 @@ Lo que se dice: Primero agrupo todo el contenido dentro de un `<div>`, que es un
 
 ### Escena 4: Centrar la tarjeta (4:00 - 5:20) - CodePen
 
-Qué se hace: agregar `max-width: 600px;` y `margin: 0 auto;`. Mostrar cómo se centra al cambiar el tamaño del panel de resultado. Agregar `text-align: center;` al `h1`.
+Qué se hace: agregar `max-width: 600px;` y `margin: 40px auto;`. Mostrar cómo se centra al cambiar el tamaño de la vista previa. Agregar `text-align: center;` a `.tarjeta`.
 
-Texto en pantalla: Centrar una caja: `max-width` + `margin: 0 auto;`, Centrar texto: `text-align: center;`
+Texto en pantalla: Centrar una caja: `max-width` + `margin: 40px auto;`, Centrar texto: `text-align: center;`
 
-Lo que se dice: La tarjeta ocupa todo el ancho. Le digo que como máximo mida 600 píxeles con `max-width`, y con `margin: 0 auto` el navegador reparte el espacio sobrante a los dos lados: queda centrada. Ojo: para centrar el texto dentro de una caja se usa otra propiedad, `text-align: center`.
+Lo que se dice: La tarjeta ocupa todo el ancho. Le digo que como máximo mida 600 píxeles con `max-width`, y con `margin: 40px auto` le doy 40 píxeles de espacio arriba y abajo, y el navegador reparte el espacio sobrante a los dos lados: queda centrada. Ojo: para centrar el texto dentro de la tarjeta se usa otra propiedad, `text-align: center`.
 
 ### Escena 5: Foto redonda (5:20 - 6:30) - CodePen
 
-Qué se hace: escribir la regla `img` con `display: block`, `margin: 0 auto`, `border-radius: 50%` y `border`.
+Qué se hace: escribir la regla `img` con `display: block`, `margin: 0 auto`, `border-radius: 50%`, `border`, `width` y `height` de 150px.
 
 Texto en pantalla: `border-radius: 50%;` + imagen cuadrada = círculo
 
-Lo que se dice: Ahora el truco favorito: si a una imagen cuadrada le pones `border-radius: 50%`, se vuelve un círculo. Para centrarla le digo `display: block`, que la hace comportarse como una caja, y le pongo `margin: 0 auto`, igual que a la tarjeta.
+Lo que se dice: Ahora el truco favorito: si a una imagen cuadrada le pones `border-radius: 50%`, se vuelve un círculo. Para centrarla le digo `display: block`, que la hace comportarse como una caja, y le pongo `margin: 0 auto`. Con `width` y `height` de 150 píxeles me aseguro de que sea cuadrada, así el círculo sale perfecto.
 
 ### Escena 6: Pausa para practicar (6:30 - 7:15)
 
