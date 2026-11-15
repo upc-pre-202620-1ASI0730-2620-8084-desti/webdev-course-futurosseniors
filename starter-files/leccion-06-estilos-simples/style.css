@@ -1,0 +1,21 @@
+/* Estilos de la lección 5 */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f7ff;
+  color: #333333;
+}
+
+h1 {
+  color: #1e5aa8;
+}
+
+.destacado {
+  color: #d6336c;
+  font-weight: bold;
+}
+
+/* PRÁCTICA (lección 6):
+   1. Crea .tarjeta con fondo blanco, borde, esquinas redondeadas y padding.
+   2. Céntrala con max-width y margin: 40px auto.
+   3. Haz la foto redonda con border-radius: 50%. */
